@@ -1,3 +1,3 @@
-###  Python
- Python for ML
+###  Python 
+Study and Practice
 
